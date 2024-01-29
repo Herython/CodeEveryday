@@ -1,0 +1,10 @@
+/CodingEveryday
+*.DS_Store
+*.exe
+*.dll
+*.lib
+*.sln
+*.vcproj
+*.jason
+*.sh
+*.iml
