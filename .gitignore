@@ -1,4 +1,3 @@
-/CodingEveryday
 *.DS_Store
 *.exe
 *.dll
@@ -8,3 +7,4 @@
 *.jason
 *.sh
 *.iml
+/test
