@@ -111,3 +111,9 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 - `1 <= nums.length <= 3 * 104`
 - `-100 <= nums[i] <= 100`
 - `nums` is sorted in **non-decreasing** order.
+
+## 反思
+
+### 2024.2.6
+
+一个本应该1.30完成的题目拖了太久太久，以至于本题其实可以用`0027`题目的相似思路却没有写出来。在以开始的时候就想到了快慢指针的想法，但是实现过程繁琐，没有考虑快指针的范围，出现错误，应当避免。
