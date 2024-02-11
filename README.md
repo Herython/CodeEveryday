@@ -17,5 +17,6 @@
 | 0080  | Remove-Duplicates-from-Sorted-Array-II | [0080-README](./0080-Remove-Duplicates-from-Sorted-Array-II/0080-README.md) | [0080](./0080-Remove-Duplicates-from-Sorted-Array-II) |   Medium   | 2024.2.6  |
 | 0088  |           Merge-Sorted-Array           |   [0088-README](./0088-Merge-Sorted-Array/0088-README.md)    |           [0088](./0088-Merge-Sorted-Array)           |    Easy    | 2024.1.29 |
 | 0169* |            Majority-Element            |    [0169-README](./0169-Majority-Element/0169-README.md)     |            [0169](./0169-Majority-Element)            |    Easy    | 2024.2.6  |
+| 0189  |              Rotate-Array              |      [0189-README](./0189-Rotate-Array/0189-README.md)       |              [0189](./0189-Rotate-Array)              |   Medium   | 2024.2.9  |
 
 \* :值得再研究研究
